@@ -1,4 +1,4 @@
-<h2 align="center">  Java   | Learning SpringBoot  </h2>
+<h2 align="center">  Java | Learning SpringBoot 🍃 </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
@@ -130,8 +130,6 @@ public class HomeController {
 }
 ```
 
-
-
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |002   | [Hola Mundo Spring usando controlador](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundoSpring)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
@@ -147,26 +145,6 @@ _CAMBIO DE PUERTO_
 ```java
 # server.port=7070
 ```
-
-**Controlador**
-
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/CambioPuertoSpring.png" />
-    </td>
-  </tr>
-</table>
-
-**Thymeleaf plugin**
-
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/thymeleaf.png" />
-    </td>
-  </tr>
-</table>
 
 
 ---
