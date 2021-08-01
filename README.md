@@ -36,14 +36,11 @@
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/java_proyect_1.gif" />
+      <img align="center" style="padding=0;" src="./images/Spring.jpg" />
     </td>
   </tr>
 </table>
 
-  <!-- ![java](./images/java_proyect_1.gif) -->
-
-📦 [Install Gitpot](https://www.gitpod.io/) Describe your dev environments as code and automate the last missing piece in your DevOps pipeline.
 
 ## Tabla de contenidos
 
