@@ -75,7 +75,7 @@
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| 001  | [Spring Boot](https://github.com/BrianMarquez3/Learning-Java/tree/main/Spring%20Boot)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+| 001  | [Spring Boot](https://github.com/BrianMarquez3/Learning-SpringBoot/tree/main/Spring%20Boot)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 ## Hola Mundo Spring usando controlador
@@ -131,9 +131,9 @@ public class HomeController {
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|002   | [Hola Mundo Spring usando controlador](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundoSpring)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|003   | [Hola Mundo Spring usando controlador 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoSpring2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|004   | [Hola Mundo Thymeleaf ](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoThymeleaf)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|002   | [Hola Mundo Spring usando controlador](https://github.com/BrianMarquez3/Learning-SpringBoot/tree/main/holaMundoSpring)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|003   | [Hola Mundo Spring usando controlador 2](https://github.com/BrianMarquez3/Learning-SpringBoot/tree/main/HolaMundoSpring2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|004   | [Hola Mundo Thymeleaf ](https://github.com/BrianMarquez3/Learning-SpringBoot/tree/main/HolaMundoThymeleaf)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 ## Personalizar el puerto HTTP
 
@@ -211,8 +211,8 @@ _Ventajas_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|005   | [Inversion Of Control](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|006   | [Inversion Of Control 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|005   | [Inversion Of Control](https://github.com/BrianMarquez3/Learning-SpringBoot/tree/main/InversionOfControl)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|006   | [Inversion Of Control 2](https://github.com/BrianMarquez3/Learning-SpringBoot/tree/main/InversionOfControl2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 ## Spring MVC
@@ -227,16 +227,32 @@ _Ventajas_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|007   | [Spring MVC](https://github.com/BrianMarquez3/Learning-Java/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|007   | [Spring MVC](https://github.com/BrianMarquez3/Learning-SpringBoot/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 ## Teoria Inyeccion de Dependencias
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|008   | [Teoria Inyeccion de Dependencias](https://github.com/BrianMarquez3/Learning-Java/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|008   | [Teoria Inyeccion de Dependencias](https://github.com/BrianMarquez3/Learning-SpringBoot/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 ---
+
+## Learning Java
+	   
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/java_proyect_1.gif" />
+    </td>
+  </tr>
+</table>	   
+
+
+- Aprende Java desde cero orientado a objetos hasta un nivel avanzado full stack
+	   
+🏫 Link de Entrenamiento [Learning Java](https://github.com/BrianMarquez3/Learning-Java)
+	
 
 ## Spotify Java | Spring
 
