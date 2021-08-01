@@ -54,13 +54,13 @@
 
 | Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  Spring-01   |:heavy_check_mark: | [Spring Boot](#Spring-Boot)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-| Spring-02-04|:heavy_check_mark: | [Hola Mundo Spring usando controlador](#Hola-Mundo-Spring-usando-controlador)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  Spring-05   |:heavy_check_mark: | [Personalizar el puerto HTTP](#Personalizar-el-puerto-HTTP)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  Spring-06   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  Spring-07   |:heavy_check_mark: | [Inversion Of Control](#Inversion-Of-Control)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  Spring-08   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
-|  Spring-09   |:heavy_check_mark: | [Teoria Inyeccion de Dependencias](#Teoria-Inyeccion-de-Dependencias)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  001   |:heavy_check_mark: | [Spring Boot](#Spring-Boot)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+| 002-004|:heavy_check_mark: | [Hola Mundo Spring usando controlador](#Hola-Mundo-Spring-usando-controlador)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  005   |:heavy_check_mark: | [Personalizar el puerto HTTP](#Personalizar-el-puerto-HTTP)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  006   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  007   |:heavy_check_mark: | [Inversion Of Control](#Inversion-Of-Control)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  008   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
+|  009   |:heavy_check_mark: | [Teoria Inyeccion de Dependencias](#Teoria-Inyeccion-de-Dependencias)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
 **Proceso tipico para desarrollar una aplicacion de Spring**
@@ -72,7 +72,7 @@
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Spring-01  | [Spring Boot](https://github.com/BrianMarquez3/Learning-Java/tree/main/Spring%20Boot)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+| 001  | [Spring Boot](https://github.com/BrianMarquez3/Learning-Java/tree/main/Spring%20Boot)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 ## Hola Mundo Spring usando controlador
@@ -130,9 +130,9 @@ public class HomeController {
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|Spring-02   | [Hola Mundo Spring usando controlador](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundoSpring)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|Spring-03   | [Hola Mundo Spring usando controlador 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoSpring2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|Spring-04   | [Hola Mundo Thymeleaf ](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoThymeleaf)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|002   | [Hola Mundo Spring usando controlador](https://github.com/BrianMarquez3/Learning-Java/tree/main/holaMundoSpring)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|003   | [Hola Mundo Spring usando controlador 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoSpring2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|004   | [Hola Mundo Thymeleaf ](https://github.com/BrianMarquez3/Learning-Java/tree/main/HolaMundoThymeleaf)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 ## Personalizar el puerto HTTP
 
@@ -230,8 +230,8 @@ _Ventajas_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|Spring-05   | [Inversion Of Control](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|Spring-06   | [Inversion Of Control 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|005   | [Inversion Of Control](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|006   | [Inversion Of Control 2](https://github.com/BrianMarquez3/Learning-Java/tree/main/InversionOfControl2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 ## Spring MVC
@@ -246,47 +246,41 @@ _Ventajas_
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|Spring-07   | [Spring MVC](https://github.com/BrianMarquez3/Learning-Java/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+|007   | [Spring MVC](https://github.com/BrianMarquez3/Learning-Java/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 ## Teoria Inyeccion de Dependencias
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|Spring-08   | [Teoria Inyeccion de Dependencias](https://github.com/BrianMarquez3/Learning-Java/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-
-
-
+|008   | [Teoria Inyeccion de Dependencias](https://github.com/BrianMarquez3/Learning-Java/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 ---
-  ## DOC
 
-**Recursos**
-  ### Data Access Object
+## Spotify Java | Spring
 
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|        | [Data Access Object](https://github.com/BrianMarquez3/Learning-Java/tree/main/Data%20Access%20Object%20(DAO))  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
 
-## ODBC Java Conector MySQL
+## Paypal Donation
 
-[Jar-download](https://jar-download.com/artifacts/mysql/mysql-connector-java)
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|        | [ODBC Java Conector MySQL](https://github.com/BrianMarquez3/Learning-Java/tree/main/Resources/MySQLConnector)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+## Licence 
 
-## JODBC Java Conector ORACLE
+Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
 
-[Oracle](https://www.oracle.com/database/technologies/jdbc-drivers-12c-downloads.html)
-
-
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|        | [JODBC Java Conector ORACLE](https://github.com/BrianMarquez3/Learning-Java/tree/main/Resources/OracleConector)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
-
-## Configuraciones GIT
-
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|        | [Configuraciones GIT](https://github.com/BrianMarquez3/Learning-Java/tree/main/GitCambioCuenta)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Programacion-Java) |
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/fractal.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
