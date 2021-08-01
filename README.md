@@ -259,7 +259,7 @@ _Ventajas_
 
 ## Spotify Java | Spring
 
-🎵 Music Java [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
+🎵 Music Java | Spring  [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
 
 ## Paypal Donation
 
