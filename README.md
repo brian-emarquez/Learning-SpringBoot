@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/Learning-SpringBoot/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-SpringBoot.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-SpringBoot?color=gren&label=Version&logo=spring">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-SpringBoot?color=gren&label=Version&logo=java">
   </a>
   
   </a>
@@ -20,7 +20,7 @@
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-SpringBoot/total?color=violet">
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-SpringBoot/total?color=green">
   </a>
   
    </a>
