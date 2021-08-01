@@ -267,7 +267,7 @@ _Ventajas_
 
 ## Licence 
 
-Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Java/blob/main/LICENCE)
+Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-SpringBoot/blob/main/LICENCE)
 
  <table align="center">
     <tr>
