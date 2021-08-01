@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-SpringBoot?style=for-the-badge">
 </P>
 
-
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
