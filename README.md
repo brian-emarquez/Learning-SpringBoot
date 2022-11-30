@@ -60,7 +60,7 @@
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/springio.png" />
+      <img align="center" style="padding=0;" src="./images/init.png" />
     </td>
   </tr>
 </table>
