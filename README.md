@@ -81,12 +81,28 @@
 |  009   |:heavy_check_mark: | [Teoria Inyeccion de Dependencias](#Teoria-Inyeccion-de-Dependencias)    |  <img src="https://media.giphy.com/media/McgE5S00A1JU5vFa3F/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 
-**Proceso tipico para desarrollar una aplicacion de Spring**
+---
 
-  1. Seleccionar Dependencia necesarias para Maven(deben ser compatibles)
-  2. Crear nuestra aplicacion
-  3. Relaizar el Deploy en el servidor
+### Comandos
 
+```bash	
+netstat -ano | findstr LISTENING | findstr 8080
+```
+
+```bash	
+taskkill /PID 1234 /F
+```
+
+```bash
+mvn spring-boot:run
+```
+
+```bash 
+mvn clean install
+```
+
+
+---
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
