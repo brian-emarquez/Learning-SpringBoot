@@ -51,6 +51,7 @@
 📦 [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) Java SE Development Kit 8 Downloads <br>
 📦 [Lombok](https://projectlombok.org/download) Project Lombok <br>
 📦 [Maven](https://maven.apache.org/download.cgi) Downloading Apache Maven <br>
+📦 [Java SE Development Kit](https://www.oracle.com/pe/java/technologies/downloads/) Java Downloads <br>
 
 ### Configuracion
 
