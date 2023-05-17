@@ -40,14 +40,12 @@
   </tr>
 </table>
 
-
-  <p> Spring Boot es una de las tecnologías dentro del mundo de Spring de las que más se esta hablando últimamente.¿Qué es y como funciona Spring Boot? . Para entender el concepto primero debemos reflexionar sobre como construimos aplicaciones con Spring Framework . </p>
-
+  <p> Spring Boot es una de las tecnologías dentro del mundo de Spring de las que más se esta hablando últimamente. </p>
 
 ### Installation
 
-📦 [IntelliJ IDEA ](https://www.jetbrains.com/idea/download/#section=windows) Download IntelliJ IDEA  <br>
 📦 [Spring Tools IDE](https://spring.io/tools) Intalador de Spring Tools 🍃 <br>
+📦 [IntelliJ IDEA ](https://www.jetbrains.com/idea/download/#section=windows) Download IntelliJ IDEA  <br>
 📦 [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) Java SE Development Kit 8 Downloads <br>
 📦 [Lombok](https://projectlombok.org/download) Project Lombok <br>
 📦 [Maven](https://maven.apache.org/download.cgi) Downloading Apache Maven <br>
