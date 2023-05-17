@@ -35,7 +35,7 @@
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/init.png" />
+      <img align="center" style="padding=0;" src="./assets/spring.webp" />
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/springio.png" />
+      <img align="center" style="padding=0;" src="./assets/springio.png" />
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@ mvn clean install
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/spirngInitalizr.png" />
+      <img align="center" style="padding=0;" src="./assets/spirngInitalizr.png" />
     </td>
   </tr>
 </table>
@@ -130,7 +130,7 @@ mvn clean install
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/versionJava.png" />
+      <img align="center" style="padding=0;" src="./assets/versionJava.png" />
     </td>
   </tr>
 </table>
@@ -140,7 +140,7 @@ mvn clean install
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/SpringHome.png" />
+      <img align="center" style="padding=0;" src="./assets/SpringHome.png" />
     </td>
   </tr>
 </table>
@@ -274,7 +274,7 @@ _Ventajas_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/java_proyect_1.gif" />
+      <img align="center" style="padding=0;" src="./assets/java_proyect_1.gif" />
     </td>
   </tr>
 </table>	   
@@ -304,7 +304,7 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Spri
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/fractal.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./assets/fractal.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
