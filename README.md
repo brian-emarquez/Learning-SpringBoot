@@ -48,7 +48,7 @@
 
 ### Installation
 
-📦 [Spring Tools IDE](https://spring.io/tools) Intalador de Spring Tools 🍃 <br>
+📦 [Spring Tools IDE](https://spring.io/tools) Intalador de Spring Tools <br>
 📦 [IntelliJ IDEA ](https://www.jetbrains.com/idea/download/#section=windows) Download IntelliJ IDEA  <br>
 📦 [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) Java SE Development Kit 8 Downloads <br>
 📦 [Lombok](https://projectlombok.org/download) Project Lombok <br>
