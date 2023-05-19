@@ -85,7 +85,7 @@
 
 ---
 
-### Comandos
+### Commands
 
 ```bash	
 netstat -ano | findstr LISTENING | findstr 8080
@@ -137,7 +137,7 @@ mvn clean install
   </tr>
 </table>
 
-**Ejecucion**
+**Execution**
 
 <table align="center" >
   <tr>
