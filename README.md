@@ -55,7 +55,7 @@
 📦 [Maven](https://maven.apache.org/download.cgi) Downloading Apache Maven <br>
 📦 [Java SE Development Kit](https://www.oracle.com/pe/java/technologies/downloads/) Java Downloads <br>
 
-### Configuracion
+### Setting
 
 <p> Generar - Configurar Proyecto Spring Boot </p>
 
