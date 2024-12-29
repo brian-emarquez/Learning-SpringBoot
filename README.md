@@ -42,9 +42,9 @@
 
   <p> Spring Boot es una de las tecnologías dentro del mundo de Spring de las que más se esta hablando últimamente. </p>
 
-| Name         | Link     |    
-|:------------:|:--------:|
-| Tesis| [Cursos Virtuales (EDITH)](https://github.com/orgs/Ollarves/repositories) | 
+| Name         | Link     |    Proyect  |   Name Backend(Engine)   |
+|:------------:|:--------:|:-----------:|:------------------------:|
+| Tesis| [Virtual Courses System](https://github.com/orgs/Ollarves/repositories) | SCV |  EDITH   |
 
 ### Installation
 
@@ -273,14 +273,6 @@ _Ventajas_
 
 ## Learning Java
 	   
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./assets/java_proyect_1.gif" />
-    </td>
-  </tr>
-</table>	   
-
 
 - Aprende Java desde cero orientado a objetos hasta un nivel avanzado full stack
 	   
