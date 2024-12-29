@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-[Spring.io](https://start.spring.io/)
+[SPRINT.IO](https://start.spring.io/)
 
 
 ## Tabla de contenidos
