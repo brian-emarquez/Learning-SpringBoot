@@ -44,7 +44,7 @@
 
 | Name         | Link     |    
 |:------------:|:--------:|
-| Tesis| [Sistema Web (EDITH)](https://github.com/orgs/Ollarves/repositories) | 
+| Tesis| [Cursos Virtuales (EDITH)](https://github.com/orgs/Ollarves/repositories) | 
 
 ### Installation
 
