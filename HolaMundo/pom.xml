@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.HolaMundo</groupId>
-	<artifactId>HolaMundo</artifactId>
+	<artifactId>HolaMundoApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HolaMundo</name>
 	<description>Demo project for Spring Boot</description>

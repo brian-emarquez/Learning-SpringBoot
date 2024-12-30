@@ -14,4 +14,4 @@ public class HolaMundoController {
     }
 }
 
-//http://localhost:8080/api/hola.
+//http://localhost:8080/api/hola
