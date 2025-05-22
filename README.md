@@ -77,10 +77,6 @@
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
 | 001-004|:heavy_check_mark: | [Hola Mundo API](#Hola-Mundo-Spring-usando-controlador)    |  <img src="https://media.giphy.com/media/cIDXTSeVDMjIAuIJ6z/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/brian-emarquez) |
 |  005   |:heavy_check_mark: | [Personalizar el puerto HTTP](#Personalizar-el-puerto-HTTP)    |  <img src="https://media.giphy.com/media/cIDXTSeVDMjIAuIJ6z/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/brian-emarquez) |
-|  006   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/cIDXTSeVDMjIAuIJ6z/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/brian-emarquez) |
-|  007   |:heavy_check_mark: | [Inversion Of Control](#Inversion-Of-Control)    |  <img src="https://media.giphy.com/media/cIDXTSeVDMjIAuIJ6z/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/brian-emarquez) |
-|  008   |:heavy_check_mark: | [Spring MVC](#Spring-MVC)    |  <img src="https://media.giphy.com/media/cIDXTSeVDMjIAuIJ6z/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/brian-emarquez) |
-|  009   |:heavy_check_mark: | [Teoria Inyeccion de Dependencias](#Teoria-Inyeccion-de-Dependencias)    |  <img src="https://media.giphy.com/media/cIDXTSeVDMjIAuIJ6z/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/brian-emarquez) |
 
 
 ---
@@ -111,56 +107,13 @@ mvn clean install
 | 001  | [Spring Boot](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/Spring%20Boot)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
-## Hola Mundo Spring usando controlador
 
-**Creacion de un Proyecto Spring**
 
-[Spring.io](https://start.spring.io/)
-
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./assets/spirngInitalizr.png" />
-    </td>
-  </tr>
-</table>
-
-**Configuracion de un Proyecto Spring**
-
-<h5>En este caso ajustamos la version a 11</h5>
-
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./assets/versionJava.png" />
-    </td>
-  </tr>
-</table>
-
-**Execution**
-
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./assets/SpringHome.png" />
-    </td>
-  </tr>
-</table>
 
 ```java
 http://localhost:8080/
 ```
 
-```java
-@RestController
-public class HomeController {
-	
-	@GetMapping("")
-	public String inicio() {
-		return "Hola Mundo";
-	}
-}
-```
 
 |Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
@@ -177,96 +130,6 @@ _CAMBIO DE PUERTO_
 ```java
 # server.port=7070
 ```
-
-
----
-
-## Spring MVC
-
-- Spring MVC utiliza una arquitectura de aplicaciones seguiendo el patro de diseño MVC (Mode View Controller)
-- Spring MVC es un framework web basado en Servlets que viene incluido en Spring Framenwork (Spring-webmvc)
-- Spring MVC esta diseñado sifuiendo el patron de diseño Front Controller
-- En Spring MVC el Front Controller es mejor conocido como DispatcherServlet
-
-**Funciones** Enviar peticiones(request) a lo manejadores (handlers) para que sean preocesadas
-
-- A Partir de Spring 4.0 se pueden crear RRESFUL Web servives utilizando la anotacion `@RestController`, `@PathVariable`
-
-- Basado en Spring IOC container (Inyeccion de Dependencias)
-- Spring MVC se integra facil con otros proyectos de Spring:
-
-* Spring BooT 
-* Spring Data JPA
-* Spirng Security
-* Sprint REST
-
-**Ventajas**
-
-- Inyeccion de dependencias (Favorece el "loose coupling")
-- Desarrollo sencillo con POJOs (PLain Old Java Object)
-- Minimiza el codigo repetitivo (boilerplate code)
-- Simplifica el acceso a datos
-- Programacion Orientada a Aspectos(AOP): Modularidad Muy alta.
-
-**Modulos**
-
-<table>
-<tr>
-    <td colspan="5" align="center"> Core</td>
-</tr>
-<tr>
-    <td>Infraestructura</td>
-    <td>Acceso a datos</td>
-    <td>Contenedor central</td>
-    <td>Web/MVC</td>
-    <td>Pruebas</td>
-</tr>
-<tr>
-    <td>AOP<br> Aspects<br> Messaging<br> Instrumentation<br></td>
-    <td>JDBC<br> Transactions<br> ORM(Object Relational Mapping)<br></td>
-    <td>Beans<br>   Beans<br> Spel<br> Context<br> Core<br>   </td>
-    <td>Servlets<br> WebRocket<br> Portlet<br> Web<br></td>
-    <td>Unit<br> Mock<br> InTegration<br></td>
-</tr>
-</table>
-
-
-## Inversion Of Control
-
-- Invierte el flujo de control del programa, externalizando(agente externo: framework) la contruccion y manejo de objetos
-
-_Ventajas_
-
-- Proporciona modularidad
-- Permite amplair la funcionalidad de nuestras aplicaciones son modificar las clases
-- Evita la dependencia entre clases
-- Flexibiliza nustras aplicaciones haciendolas mas configurables
-
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|005   | [Inversion Of Control](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/InversionOfControl)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|006   | [Inversion Of Control 2](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/InversionOfControl2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-
-
-## Spring MVC
-
-**¿Que es un controlador de Spring MVC?**
-
--Un controlador (Controller) es Spring MVC) es una clase normal a la cual se le arega la anotacion `@controller` a novel de la clase.
-- En Una aplicacion web estos metodos principalmente esta marcados con las anotaciones `@GetMapping`, `@PostMapping`, `@ResquestMapping`(Action Controller)
-- Los Metodos pueden tener cualquier nombre y deben regresar un String (nombre de la vista)
-- Los metodos son ejecutados al ser invocados por medio de la URL espefifica como parametro en las anotaciones `@GetMapping`, etc.
-
-
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|007   | [Spring MVC](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-
-## Teoria Inyeccion de Dependencias
-
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|008   | [Teoria Inyeccion de Dependencias](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/SpringMVC)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
 
 
 ---
