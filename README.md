@@ -35,7 +35,7 @@
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./assets/Spring-vs-Spring-Boot.png" />
+      <img align="center" style="padding=0;" src="./assets/Spring-vs-Spring-Boot4.png" />
     </td>
   </tr>
 </table>
