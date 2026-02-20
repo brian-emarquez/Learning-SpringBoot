@@ -1,171 +1,158 @@
-<h2 align="center">  Java | Learning SpringBoot 🍃 </h2>
-<!-- https://shields.io/ -->
+<h2 align="center">Java Learning - Spring Boot 🍃</h2>
 
 <p align="center">
-  
-   </a>
-    <img src="https://img.shields.io/github/languages/top/brian-emarquez/Learning-SpringBoot?color=red">
-  </a>
   <a href="https://github.com/brian-emarquez/Learning-SpringBoot/stargazers">
     <img src="https://img.shields.io/github/stars/brian-emarquez/Learning-SpringBoot.svg?style=flat" alt="Stars">
   </a>
   <a href="https://github.com/brian-emarquez/Learning-SpringBoot/network">
     <img src="https://img.shields.io/github/forks/brian-emarquez/Learning-SpringBoot.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/brian-emarquez/Learning-SpringBoot?color=gren&label=Version&logo=java">
+  <img src="https://img.shields.io/github/languages/top/brian-emarquez/Learning-SpringBoot?color=red" alt="Java">
+  <img src="https://img.shields.io/github/last-commit/brian-emarquez/Learning-SpringBoot?color=darkgreen">
+  <a href="https://github.com/brian-emarquez/Learning-SpringBoot/blob/main/LICENCE">
+    <img src="https://img.shields.io/badge/License-MIT-blue">
   </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/brian-emarquez/Learning-SpringBoot">
-  </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/downloads/brian-emarquez/Learning-SpringBoot/total?color=green">
-  </a>
-  
-   </a>
-   <a href="https://github.com/brian-emarquez/Learning-SpringBoot/network">
-    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
-  </a><br>
- 
-  <img src="https://img.shields.io/github/last-commit/brian-emarquez/Learning-SpringBoot?color=darkgreen&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/brian-emarquez/Learning-SpringBoot?style=for-the-badge">
-</P>
-
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./assets/Spring-vs-Spring-Boot4.png" />
-    </td>
-  </tr>
-</table>
-
-  <p> Spring Boot es una de las tecnologías dentro del mundo de Spring de las que más se esta hablando últimamente. </p>
-
-| Name         | Link     |    Proyect  |   Name Backend(Engine)   |
-|:------------:|:--------:|:-----------:|:------------------------:|
-| Tesis| [Virtual Courses System](https://github.com/orgs/Ollarves/repositories) | SCV |  EDITH   |
-
-### Installation
-
-📦 [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) Download IntelliJ IDEA  <br>
-📦 [Spring Tools IDE](https://spring.io/tools) Intalador de Spring Tools <br>
-📦 [JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) Java SE Development Kit 8 Downloads <br>
-📦 [Lombok](https://projectlombok.org/download) Project Lombok <br>
-📦 [Maven](https://maven.apache.org/download.cgi) Downloading Apache Maven <br>
-📦 [Java SE Development Kit](https://www.oracle.com/pe/java/technologies/downloads/) Java Downloads <br>
-
-### Setting
-
-<p> Generar - Configurar Proyecto Spring Boot </p>
-
-<table align="center" >
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./assets/springio.png" />
-    </td>
-  </tr>
-</table>
-
-[SPRINT.IO](https://start.spring.io/)
-
-
-## Tabla de contenidos
-
-
-| Numeration   | Check  |    Topic      |   Quantization   |    Edit           |    Downloads    |  link  |
-| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-| 001-004|:heavy_check_mark: | [Hola Mundo API](#Hola-Mundo-Spring-usando-controlador)    |  <img src="https://media.giphy.com/media/cIDXTSeVDMjIAuIJ6z/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/brian-emarquez) |
-|  005   |:heavy_check_mark: | [Personalizar el puerto HTTP](#Personalizar-el-puerto-HTTP)    |  <img src="https://media.giphy.com/media/cIDXTSeVDMjIAuIJ6z/giphy.gif" width="25px">    | ☕ | 💾 | [  ⬅️ Atras](https://github.com/brian-emarquez) |
-
+</p>
 
 ---
 
-### Commands
+## 📋 Descripción
 
-```bash	
+Repositorio educativo para aprender **Spring Boot** desde cero. Contiene múltiples proyectos prácticos que cubren desde conceptos básicos hasta implementación de vistas con Thymeleaf.
+
+> Spring Boot es un framework moderno de Java que facilita la creación de aplicaciones empresariales con configuración mínima.
+
+---
+
+## 📦 Requisitos Previos
+
+- **[JDK 8+](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)** - Java Development Kit
+- **[Maven](https://maven.apache.org/download.cgi)** - Gestor de dependencias
+- **[IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)** o editor de tu preferencia
+- **[Lombok](https://projectlombok.org/download)** - Librería para reducir código boilerplate (opcional)
+
+---
+
+## 🚀 Proyectos Incluidos
+
+| # | Proyecto | Descripción | Tecnologías |
+|---|----------|-------------|-------------|
+| 1 | **HolaMundo** | API REST básica con controlador Spring | Spring Boot, REST |
+| 2 | **HolaMundoSpringNetbeans** | Segundo proyecto "Hola Mundo" | Spring Boot, Maven |
+| 3 | **HolaMundoThymeleaf** | Aplicación web con vistas HTML | Spring Boot, Thymeleaf, HTML |
+
+---
+
+## ⚡ Quick Start
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/brian-emarquez/Learning-SpringBoot.git
+cd Learning-SpringBoot
+```
+
+### 2. Ejecutar un proyecto
+```bash
+cd HolaMundo
+mvn clean install
+mvn spring-boot:run
+```
+
+### 3. Acceder a la aplicación
+```
+http://localhost:8080/
+```
+
+---
+
+## 🔧 Comandos Útiles
+
+**Verificar puertos en uso:**
+```bash
 netstat -ano | findstr LISTENING | findstr 8080
 ```
 
-```bash	
-taskkill /PID 1234 /F
+**Liberar un puerto:**
+```bash
+taskkill /PID <PID> /F
 ```
 
+**Limpiar e instalar dependencias:**
+```bash
+mvn clean install
+```
+
+**Ejecutar la aplicación:**
 ```bash
 mvn spring-boot:run
 ```
 
-```bash 
-mvn clean install
+---
+
+## ⚙️ Configuración Personalizada
+
+### Cambiar el puerto HTTP
+
+En el archivo [application.properties](application.properties):
+
+```properties
+server.port=7070
 ```
 
+Esto cambiará el puerto de la aplicación del 8080 (por defecto) al 7070.
 
 ---
 
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| 001  | [Spring Boot](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/Spring%20Boot)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
+## 📚 Estructura del Proyecto
 
-
-
-
-
-```java
-http://localhost:8080/
 ```
-
-
-|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
-|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|002   | [Hola Mundo Spring usando controlador](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/holaMundoSpring)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|003   | [Hola Mundo Spring usando controlador 2](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/HolaMundoSpring2)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-|004   | [Hola Mundo Thymeleaf ](https://github.com/brian-emarquez/Learning-SpringBoot/tree/main/HolaMundoThymeleaf)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Spring-Boot-Learning) |
-
-## Personalizar el puerto HTTP
-
-_SE PUEDE DECLARAR PROPIEDADES PARA CAMBIAR VALORES_
-_CAMBIO DE PUERTO_
-
-
-```java
-# server.port=7070
+Learning-SpringBoot/
+├── HolaMundo/                  # Primer proyecto básico
+│   ├── src/main/java/          # Código fuente
+│   ├── src/test/java/          # Tests
+│   └── pom.xml                 # Configuración Maven
+├── HolaMundoSpringNetbeans/   # Segundo proyecto
+├── HolaMundoThymeleaf/        # Proyecto con Thymeleaf
+└── README.md                    # Este archivo
 ```
-
 
 ---
 
-## Learning Java
-	   
+## 🎯 Conceptos Cubiertos
 
-- Aprende Java desde cero orientado a objetos hasta un nivel avanzado full stack
-	   
-🏫 Link de Entrenamiento [Learning Java](https://github.com/brian-emarquez/Learning-Java)
-	
+- ✅ Configuración básica de Spring Boot
+- ✅ Creación de controladores REST
+- ✅ Manejo de propiedades de la aplicación
+- ✅ Integración con Thymeleaf para vistas dinámicas
+- ✅ Maven como gestor de dependencias
+- ✅ Estructura de proyectos Spring
 
-## Spotify Java | Spring
+---
 
-🎵 Music Java | Spring  [List on Spotify 🎤](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP?si=A-pW9orFSRegxZBWoMZp4w)
+## 🔗 Enlaces Relacionados
 
-## Paypal Donation
+📖 [Documentación oficial de Spring Boot](https://spring.io/projects/spring-boot)  
+📖 [Spring.io Generator](https://start.spring.io/)  
+📚 [Learning Java Avanzado](https://github.com/brian-emarquez/Learning-Java)  
+🎵 [Playlist Spotify - Java & Spring](https://open.spotify.com/playlist/1UMfu4axebdOMeM996K0xP)
 
-🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+---
 
-## Licence 
+## 💝 Apoya el Proyecto
 
-Todo acerca de la licencia [here](https://github.com/brian-emarquez/Learning-SpringBoot/blob/main/LICENCE)
+Si este repositorio te ha sido útil, considera hacer una donación:
 
- <table align="center">
-    <tr>
-      <td colspan="3">A</td>
-        <td>B</td>
-      </tr>
-      <tr>
-        <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./assets/fractal.gif" /></td>
-        <td>E</td>
-      </tr>
-      <tr>
-      <td colspan="3">F</td>
-        <td>G</td>
-    </tr>
-</table>
+🎁 [Donar a través de PayPal](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y)
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENCE](LICENCE) para más detalles.
+
+---
+
+<p align="center">
+  <strong>Hecho con ☕ por <a href="https://github.com/brian-emarquez">Brian Emáquez</a></strong>
+</p>
+
